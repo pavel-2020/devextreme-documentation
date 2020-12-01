@@ -1,0 +1,1 @@
+The widget supports the 5 button types: *"back"*, *"danger"*, *"default"*, *"normal"*, and *"success"*. We will set the type to *"success"* to make the widget green.
