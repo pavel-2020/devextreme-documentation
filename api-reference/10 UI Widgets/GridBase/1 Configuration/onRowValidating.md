@@ -18,7 +18,7 @@ An array of broken rules. The structure of rule objects is described in the [Val
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.errorText): String
 An error message to be displayed.

@@ -19,7 +19,7 @@ Allows you to cancel the item deletion.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.itemData): Object
 The data of the item to be removed.

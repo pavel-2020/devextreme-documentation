@@ -22,7 +22,7 @@ The received changes.
 The widget instance's name.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.model): Object
 Model data. Available only if you use Knockout.

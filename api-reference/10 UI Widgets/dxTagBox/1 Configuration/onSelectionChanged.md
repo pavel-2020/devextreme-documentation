@@ -18,7 +18,7 @@ The data of the items that have been selected.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.model): Object
 Model data. Available only if Knockout is used.

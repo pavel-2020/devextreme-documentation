@@ -8,7 +8,7 @@ default: 'content'
 Specifies a custom template for the widget content.
 
 ##### param(contentElement): dxElement
-#include common-ref-elementparam with { element: "widget content" }
+#include common-ref-elementparam with { element: "component content" }
 
 ---
 #####See Also#####

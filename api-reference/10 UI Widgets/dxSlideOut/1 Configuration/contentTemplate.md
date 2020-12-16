@@ -8,7 +8,7 @@ default: 'content'
 Specifies a custom template for the widget content. Rendered only once - when the widget is created.
 
 ##### param(container): dxElement
-#include common-ref-elementparam with { element: "widget content" }
+#include common-ref-elementparam with { element: "component content" }
 
 ##### return: String | Element | jQuery
 A template name or container.

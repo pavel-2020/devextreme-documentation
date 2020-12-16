@@ -18,7 +18,7 @@ Allows you to cancel the resource deletion.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.key): any
 The key of the deleted resource.

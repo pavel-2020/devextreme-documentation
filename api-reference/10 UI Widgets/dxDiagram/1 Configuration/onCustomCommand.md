@@ -14,7 +14,7 @@ Information about the event.
 The widget instance's name.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.name): String
 The name of the clicked item.

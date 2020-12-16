@@ -24,7 +24,7 @@ The widget's instance.
 The data of the row to be edited.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.key): any
 The row's key.     

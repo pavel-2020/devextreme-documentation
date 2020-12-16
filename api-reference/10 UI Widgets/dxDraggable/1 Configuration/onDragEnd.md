@@ -18,7 +18,7 @@ Allows you to cancel the gesture.
 The widget that raised the event.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.event): event
 #include common-ref-eventparam

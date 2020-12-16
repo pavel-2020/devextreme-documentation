@@ -15,7 +15,7 @@ Information about the event.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.itemData): Object
 The data of the item whose title is rendered.

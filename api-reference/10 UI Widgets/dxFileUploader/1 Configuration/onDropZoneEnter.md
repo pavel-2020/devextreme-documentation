@@ -18,7 +18,7 @@ The widget's instance.
 A drop zone element.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.event): event
 #include common-ref-eventparam

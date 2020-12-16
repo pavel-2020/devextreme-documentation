@@ -36,7 +36,7 @@ The widget [instance](/api-reference/10%20UI%20Widgets/Component/3%20Methods/ins
 The *data* area's fields.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.event): event
 #include common-ref-eventparam

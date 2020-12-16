@@ -18,7 +18,7 @@ Allows you to cancel exporting data.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.fileName): String
 The name of the file where grid data is about to be exported.

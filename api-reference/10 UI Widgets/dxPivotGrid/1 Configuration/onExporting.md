@@ -18,7 +18,7 @@ Allows you to cancel exporting.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.fileName): String
 The name of the file to which data is about to be exported.

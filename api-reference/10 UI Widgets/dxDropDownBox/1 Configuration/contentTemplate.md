@@ -17,7 +17,7 @@ The widget's instance.
 The currently selected value.
 
 ##### param(contentElement): dxElement
-#include common-ref-elementparam with { element: "widget content" }
+#include common-ref-elementparam with { element: "component content" }
 
 ##### return: String | Element | jQuery
 A template name or container.

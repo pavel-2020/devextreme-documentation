@@ -21,7 +21,7 @@ The data of the cell on which the context menu is invoked.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.event): event
 #include common-ref-eventparam

@@ -18,7 +18,7 @@ The widget's instance.
 The current directory.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.model): Object
 The model data. Available only if you use Knockout.

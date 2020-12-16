@@ -18,7 +18,7 @@ The widget's instance.
 The field where to place a custom item.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.model): Object
 Model data. Available only if you use Knockout.

@@ -18,7 +18,7 @@ Allows you to cancel replacing ordinary tags with the multi-tag.
 The widget's instance.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.model): Object
 Model data. Available only when using Knockout.

@@ -21,7 +21,7 @@ The widget's instance.
 Data of the right-clicked task or dependency.
 
 ##### field(e.element): dxElement
-#include common-ref-elementparam with { element: "widget" }
+#include common-ref-elementparam with { element: "component" }
 
 ##### field(e.event): event
 #include common-ref-eventparam
