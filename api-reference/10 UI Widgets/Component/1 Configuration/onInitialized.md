@@ -12,7 +12,7 @@ A function used in JavaScript frameworks to save the widget instance.
 Information about the event.
 
 ##### field(e.component): {WidgetName}
-The widget's instance.
+The UI component's instance.
 
 ##### field(e.element): dxElement
 #include common-ref-elementparam with { element: "component" }

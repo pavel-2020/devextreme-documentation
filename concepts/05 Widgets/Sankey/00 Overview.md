@@ -2,7 +2,7 @@ The **Sankey** is a widget that visualizes the flow magnitude between value sets
 
 Start configuring the **Sankey** by binding it to your data source. Refer to the articles in the [Data Binding](/concepts/05%20Widgets/Sankey/03%20Data%20Binding '/Documentation/Guide/Widgets/Sankey/Data_Binding/') section for more information.
 
-Next, get familiar with the widget's elements using the following element map. Hover over an element to see its name or click on it to navigate to its article.
+Next, get familiar with the UI component's elements using the following element map. Hover over an element to see its name or click on it to navigate to its article.
 
 <img src="/images/Sankey/overview.png" style="display:block;margin-left:auto;margin-right:auto" usemap="#image-map" alt="DevExtreme HTML5 JavaScript Sankey">
 

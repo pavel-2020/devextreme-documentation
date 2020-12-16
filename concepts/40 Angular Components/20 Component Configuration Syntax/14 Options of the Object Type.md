@@ -1,4 +1,4 @@
-Use components prefixed with `dxo-` ("o" stands for "object"). In the following example, we configure the [TreeMap](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/HierarchicalDataStructure/Angular/Light) widget's [tooltip](/api-reference/20%20Data%20Visualization%20Widgets/dxTreeMap/1%20Configuration/tooltip '/Documentation/ApiReference/Data_Visualization_Widgets/dxTreeMap/Configuration/tooltip/') option:
+Use components prefixed with `dxo-` ("o" stands for "object"). In the following example, we configure the [TreeMap](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/HierarchicalDataStructure/Angular/Light) UI component's [tooltip](/api-reference/20%20Data%20Visualization%20Widgets/dxTreeMap/1%20Configuration/tooltip '/Documentation/ApiReference/Data_Visualization_Widgets/dxTreeMap/Configuration/tooltip/') option:
 
     <!--HTML-->
     <dx-tree-map>

@@ -8,6 +8,6 @@ To create a widget, call its constructor passing the target element and a config
     let instance = new Accordion(element, options);
     ...
 
-If you do not use modules, access the widget's constructor via the **DevExpress.ui** namespace.
+If you do not use modules, access the UI component's constructor via the **DevExpress.ui** namespace.
 
     let instance = new DevExpress.ui.dxAccordion(element, options);

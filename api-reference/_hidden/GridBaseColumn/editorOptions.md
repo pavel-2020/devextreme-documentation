@@ -7,7 +7,7 @@ type: Object
 Configures the default widget used for [editing](/api-reference/10%20UI%20Widgets/GridBase/1%20Configuration/editing '{basewidgetpath}/Configuration/editing/') and filtering in the [filter row](/api-reference/10%20UI%20Widgets/GridBase/1%20Configuration/filterRow '{basewidgetpath}/Configuration/filterRow/').
 
 ---
-In this object, you can specify the default widget's options (except **onValueChanged**, which you can specify in [onEditorPreparing](/api-reference/10%20UI%20Widgets/dxDataGrid/1%20Configuration/onEditorPreparing.md '{basewidgetpath}/Configuration/#onEditorPreparing')).
+In this object, you can specify the default UI component's options (except **onValueChanged**, which you can specify in [onEditorPreparing](/api-reference/10%20UI%20Widgets/dxDataGrid/1%20Configuration/onEditorPreparing.md '{basewidgetpath}/Configuration/#onEditorPreparing')).
 
 The default editor widget depends on the column configuration. The following table illustrates the dependency:
 

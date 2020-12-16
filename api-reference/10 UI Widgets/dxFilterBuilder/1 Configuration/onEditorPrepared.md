@@ -12,7 +12,7 @@ A function that is executed after an editor is created.
 Information about the event.
 
 ##### field(e.component): {WidgetName}
-The widget's [instance](/api-reference/10%20UI%20Widgets/Component/3%20Methods/instance().md '/Documentation/ApiReference/UI_Widgets/dxFilterBuilder/Methods/#instance').
+The UI component's [instance](/api-reference/10%20UI%20Widgets/Component/3%20Methods/instance().md '/Documentation/ApiReference/UI_Widgets/dxFilterBuilder/Methods/#instance').
 
 ##### field(e.dataField): String
 The data field's name.

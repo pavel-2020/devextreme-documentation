@@ -1,4 +1,4 @@
-Scrolling enables a user to browse data that lies outside the widget's viewport. The following scrolling modes are available in the **TreeList**:
+Scrolling enables a user to browse data that lies outside the UI component's viewport. The following scrolling modes are available in the **TreeList**:
 
 - **Standard**      
 Loads all rows simultaneously.

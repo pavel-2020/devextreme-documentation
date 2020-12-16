@@ -16,7 +16,7 @@ Allows you to cancel the editor's creation.
 You can set this field's value to **true** and implement a custom editor.
 
 ##### field(e.component): {WidgetName}
-The widget's instance.
+The UI component's instance.
 
 ##### field(e.dataField): String
 The name of the field that provides data for the column's editor.

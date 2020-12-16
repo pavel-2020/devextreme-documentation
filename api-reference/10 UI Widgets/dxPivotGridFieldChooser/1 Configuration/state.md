@@ -5,7 +5,7 @@ default: null
 ---
 ---
 ##### shortDescription
-The widget's state.
+The UI component's state.
 
 ---
 The state includes field configurations, expanded headers, and other settings. The following code shows how to use the state to cancel or apply the settings to the **PivotGrid** widget:

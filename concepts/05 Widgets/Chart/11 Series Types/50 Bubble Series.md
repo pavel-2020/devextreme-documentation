@@ -25,7 +25,7 @@ Note that **Bubble** series require an additional data field that provides size 
                 bubble: { ... }
             },
             minBubbleSize: 14, // in pixels
-            maxBubbleSize: 0.3 // in fractions of the widget's height or width, depending on which is smaller
+            maxBubbleSize: 0.3 // in fractions of the UI component's height or width, depending on which is smaller
         });
     });
 

@@ -82,7 +82,7 @@ With the ever-growing variety of platforms, today's web sites and applications c
 
 [note]
 
-The layout does not automatically adapt to changes made in the widget's container at runtime. Therefore, if you enable a user to resize the container, call the [render()](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/3%20Methods/render().md '/Documentation/ApiReference/Data_Visualization_Widgets/dxFunnel/Methods/#render') method after each resizing to render the **Funnel** in the new size.
+The layout does not automatically adapt to changes made in the UI component's container at runtime. Therefore, if you enable a user to resize the container, call the [render()](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/3%20Methods/render().md '/Documentation/ApiReference/Data_Visualization_Widgets/dxFunnel/Methods/#render') method after each resizing to render the **Funnel** in the new size.
 
 ---
 ##### jQuery

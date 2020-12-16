@@ -15,7 +15,7 @@ Information about the event.
 Allows you to cancel overlay hiding.
 
 ##### field(e.component): {WidgetName}
-The widget's instance.
+The UI component's instance.
 
 ##### field(e.element): dxElement
 #include common-ref-elementparam with { element: "component" }

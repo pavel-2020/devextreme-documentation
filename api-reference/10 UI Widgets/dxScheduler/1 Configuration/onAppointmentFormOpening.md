@@ -18,7 +18,7 @@ The data of the appointment for which a form is opened.
 If **true**, prevents the user from opening the appointment details form.
 
 ##### field(e.component): {WidgetName}
-The widget's instance.
+The UI component's instance.
 
 ##### field(e.element): dxElement
 #include common-ref-elementparam with { element: "component" }

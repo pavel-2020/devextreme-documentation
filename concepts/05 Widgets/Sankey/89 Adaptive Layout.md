@@ -82,7 +82,7 @@ The **Sankey** widget has an adaptive layout that enables the widget to hide opt
 
 [note]
 
-The layout does not automatically adapt if the widget's container is resized at runtime. If you enable a user to resize the container, call the [render()](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/3%20Methods/render().md '/Documentation/ApiReference/Data_Visualization_Widgets/dxSankey/Methods/#render') method each time it is resized to rerender the **Sankey**.
+The layout does not automatically adapt if the UI component's container is resized at runtime. If you enable a user to resize the container, call the [render()](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/3%20Methods/render().md '/Documentation/ApiReference/Data_Visualization_Widgets/dxSankey/Methods/#render') method each time it is resized to rerender the **Sankey**.
 
 ---
 ##### jQuery

@@ -14,7 +14,7 @@ Information about the row and column that contain the button.
 The column's properties.
 
 ##### field(options.component): dxDataGrid
-The widget's instance.
+The UI component's instance.
 
 ##### field(options.row): dxDataGridRowObject
 The row's properties.

@@ -11,7 +11,7 @@ Specifies a custom template for the drop-down content.
 Data associated with the widget.
 
 ##### field(templateData.component): dxDropDownBox
-The widget's instance.
+The UI component's instance.
 
 ##### field(templateData.value): any
 The currently selected value.

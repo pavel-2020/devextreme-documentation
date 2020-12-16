@@ -12,6 +12,6 @@ A function that is executed before the widget is [disposed of](/api-reference/10
 Information about the event.
 
 ##### field(e.component): {WidgetName}
-The widget's instance.
+The UI component's instance.
 
 ---

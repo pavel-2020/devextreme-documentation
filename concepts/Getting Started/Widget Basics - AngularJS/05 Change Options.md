@@ -42,7 +42,7 @@ If you bind a widget to a collection, the widget gets updated only when an objec
         ];
     }
 
-The code above forces the widget to use the <a href="https://docs.angularjs.org/api/ng/type/$rootScope.Scope#$watch" target="_blank">$watch</a> listener instead of the default <a href="https://docs.angularjs.org/api/ng/type/$rootScope.Scope#$watchCollection" target="_blank">$watchCollection</a> listener. Note that the use of the **$watch** listener may impact the widget's peformance.
+The code above forces the widget to use the <a href="https://docs.angularjs.org/api/ng/type/$rootScope.Scope#$watch" target="_blank">$watch</a> listener instead of the default <a href="https://docs.angularjs.org/api/ng/type/$rootScope.Scope#$watchCollection" target="_blank">$watchCollection</a> listener. Note that the use of the **$watch** listener may impact the UI component's peformance.
 
 [note]We strongly do _not_ recommend binding a widget to the [DevExtreme DataSource](/api-reference/30%20Data%20Layer/DataSource '/Documentation/ApiReference/Data_Layer/DataSource/') using the **bindingOptions** object. The **DataSource** contains internal circular links that get updated during its lifetime. Tracking changes in them by means of the AngularJS Framework may lead to unexpected results. Instead of using the **bindingOptions** object, simply assign the scope property with the **DataSource** to the **dataSource** option of the widget. If you nevertheless decided to use the **bindingOptions** object, set its **deep** field to **false** explicitly.
 

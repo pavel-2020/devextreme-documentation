@@ -1,4 +1,4 @@
-Scrolling allows browsing data outside the widget's viewport. The following scrolling modes are available in the **DataGrid**:
+Scrolling allows browsing data outside the UI component's viewport. The following scrolling modes are available in the **DataGrid**:
 
 - **Standard**      
 Loads all rows simultaneously. A user scrolls within one page if [paging](/concepts/05%20Widgets/DataGrid/35%20Paging '/Documentation/Guide/Widgets/DataGrid/Paging/') is enabled.
@@ -300,7 +300,7 @@ The current platform determines the native scrolling settings and you cannot adj
     
 ---
 
-If you need to access and customize other scrolling settings, get the instance of the widget's scrollable part by calling the [getScrollable()](/api-reference/10%20UI%20Widgets/GridBase/3%20Methods/getScrollable().md '/Documentation/ApiReference/UI_Widgets/dxDataGrid/Methods/#getScrollable') method.
+If you need to access and customize other scrolling settings, get the instance of the UI component's scrollable part by calling the [getScrollable()](/api-reference/10%20UI%20Widgets/GridBase/3%20Methods/getScrollable().md '/Documentation/ApiReference/UI_Widgets/dxDataGrid/Methods/#getScrollable') method.
 
 #####See Also#####
 - [DataGrid Demos](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DataGrid/LocalDataSource)

@@ -12,7 +12,7 @@ A function that is executed before a new row is added to the widget.
 Information about the event that caused the function's execution.
 
 ##### field(e.component): {WidgetName}
-The widget's instance.
+The UI component's instance.
 
 ##### field(e.data): Object
 The data of the inserted row; initially empty.
