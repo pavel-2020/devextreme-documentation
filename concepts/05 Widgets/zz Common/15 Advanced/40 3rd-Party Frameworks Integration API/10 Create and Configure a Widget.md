@@ -1,4 +1,4 @@
-To create a widget, call its constructor passing the target element and a configuration object. The target element may need to have additional style properties set, for example, data visualization widgets' **display** should be set to "block".
+To create a widget, call its constructor passing the target element and a configuration object. The target element may need to have additional style properties set, for example, data visualization UI components' **display** should be set to "block".
 
     import Accordion from "devextreme/ui/accordion";
     ...

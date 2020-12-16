@@ -14,7 +14,7 @@ The following code example shows how to declare a widget configuration object us
 
 Any configuration object should have a specific type. In this example, the `options` object has the `dxChartOptions` type, which configures the **Chart** widget. Type names are formed by concatenating the widget name (in this example, `dxChart`) and `Options`.
 
-The part that preceeds the type is its namespace. DevExtreme widgets are declared in the following namespaces.
+The part that preceeds the type is its namespace. DevExtreme UI components are declared in the following namespaces.
 
 - `DevExpress.viz.charts` - [dxChart](/api-reference/20%20Data%20Visualization%20Widgets/dxChart '/Documentation/ApiReference/Data_Visualization_Widgets/dxChart/'), [dxPieChart](/api-reference/20%20Data%20Visualization%20Widgets/dxPieChart '/Documentation/ApiReference/Data_Visualization_Widgets/dxPieChart/') and [dxPolarChart](/api-reference/20%20Data%20Visualization%20Widgets/dxPolarChart '/Documentation/ApiReference/Data_Visualization_Widgets/dxPolarChart/')
 - `DevExpress.viz.treeMap` - [dxTreeMap](/api-reference/20%20Data%20Visualization%20Widgets/dxTreeMap '/Documentation/ApiReference/Data_Visualization_Widgets/dxTreeMap/')

@@ -1,4 +1,4 @@
-The simplest way of providing data is using an array of plain objects. Each object in this array specifies series values for a particular argument. **PieChart** and **Sparkline** can contain only one series. Therefore, providing data for these widgets requires only one series value to be specified for each argument. The following code snippet shows how to declare an array to be used as a data source for **PieChart** and **Sparkline**.
+The simplest way of providing data is using an array of plain objects. Each object in this array specifies series values for a particular argument. **PieChart** and **Sparkline** can contain only one series. Therefore, providing data for these UI components requires only one series value to be specified for each argument. The following code snippet shows how to declare an array to be used as a data source for **PieChart** and **Sparkline**.
 
 	<!--JavaScript-->var commonDataSource = [
 		{ year: 2005, value: 2450 },

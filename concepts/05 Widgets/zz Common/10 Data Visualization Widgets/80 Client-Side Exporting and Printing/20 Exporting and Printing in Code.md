@@ -6,7 +6,7 @@ To print a widget, call its [print()](/api-reference/20%20Data%20Visualization%2
 
     <!--JavaScript-->widgetInstance.print();
     
-Also, the DevExtreme Data Visualization widgets fire the following exporting-related events.
+Also, the DevExtreme Data Visualization UI components fire the following exporting-related events.
 
 - [exporting](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/4%20Events/exporting.md '/Documentation/ApiReference/Data_Visualization_Widgets/dxChart/Events/#exporting')  
 Allows you to request export details or prevent exporting.

@@ -12,7 +12,7 @@ A complementary widget for the [PivotGrid](/api-reference/10%20UI%20Widgets/dxPi
 dx.web.js, dx.all.js
 
 ---
-Both the **PivotGridFieldChooser** and the **PivotGrid** must be bound to one and the same instance of the [PivotGridDataSource](/api-reference/30%20Data%20Layer/PivotGridDataSource '/Documentation/ApiReference/Data_Layer/PivotGridDataSource/'). Create the **PivotGridDataSource** individually and then assign it to both widgets as shown in the code above.
+Both the **PivotGridFieldChooser** and the **PivotGrid** must be bound to one and the same instance of the [PivotGridDataSource](/api-reference/30%20Data%20Layer/PivotGridDataSource '/Documentation/ApiReference/Data_Layer/PivotGridDataSource/'). Create the **PivotGridDataSource** individually and then assign it to both UI components as shown in the code above.
 
 #include common-demobutton with {
     url: "https://js.devexpress.com/Demos/WidgetsGallery/Demo/PivotGrid/FieldChooser/"

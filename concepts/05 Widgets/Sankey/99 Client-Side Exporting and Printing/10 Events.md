@@ -1,4 +1,4 @@
-DevExtreme data visualization widgets raise the following exporting-related events:
+DevExtreme data visualization UI components raise the following exporting-related events:
 
 - [exporting](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/4%20Events/exporting.md '/Documentation/ApiReference/Data_Visualization_Widgets/dxSankey/Events/#exporting')  
 Allows you to request export details or prevent exporting.
