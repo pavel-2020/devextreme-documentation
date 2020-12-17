@@ -17,7 +17,7 @@ An array with the following format:
         [ widgetInstanceP_1, widgetInstanceP_2, ..., widgetInstanceP_R ]
     ]
 
-Each nested array contains widget instances that should be in the same row in the exported document.
+Each nested array contains UI component instances that should be in the same row in the exported document.
 
 ---
 #include common-demobutton with {

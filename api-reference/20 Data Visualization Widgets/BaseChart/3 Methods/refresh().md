@@ -6,7 +6,7 @@ id: BaseChart.refresh()
 Reloads data and repaints the widget.
 
 ---
-The widget cannot track changes a third party makes in the data source. Call this method to update data in the widget in this case.
+The UI component cannot track changes a third party makes in the data source. Call this method to update data in the UI component in this case.
 
 #####See Also#####
 #include common-link-callmethods

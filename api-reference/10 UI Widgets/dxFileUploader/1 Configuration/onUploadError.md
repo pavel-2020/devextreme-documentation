@@ -27,7 +27,7 @@ The error that occurred.
 The uploaded file.
 
 ##### field(e.message): String
-The message displayed by the widget on uploading failure.
+The message displayed by the UI component on uploading failure.
 
 ##### field(e.model): Object
 Model data. Available only if Knockout is used.

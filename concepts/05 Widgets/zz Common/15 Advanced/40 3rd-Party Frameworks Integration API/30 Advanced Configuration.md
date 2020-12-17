@@ -29,11 +29,11 @@ The **integrationOptions** configuration object contains the following fields:
 
      - **deep** - Specifies whether the watcher uses deep or shallow comparison.
 
- - The method should return a function that is called when watchers related to the widget are deleted.
+ - The method should return a function that is called when watchers related to the UI component are deleted.
 
 - **templates**
 
- This field holds a map of the templates that are added when the widget is initialized. Item keys should correspond to template names. Item values should be objects that contain render functions.
+ This field holds a map of the templates that are added when the UI component is initialized. Item keys should correspond to template names. Item values should be objects that contain render functions.
 
         templates: {
             itemTemplate: {

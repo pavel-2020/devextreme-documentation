@@ -147,4 +147,4 @@ You can achieve the same in the markup using the [dxItem](/api-reference/10%20UI
 
 ---
 
-Default templates and the fields available in them depend on the widget. Refer to the **items** option description of a particular widget for a list of template fields.
+Default templates and the fields available in them depend on the widget. Refer to the **items** option description of a particular UI component for a list of template fields.

@@ -7,7 +7,7 @@ Use a UI component's **dispose()** method to dispose of the resources allocated 
 
 [note]
 
-After the dispose method call, the HTML element associated with the widget remains in the DOM. If you need to remove the element as well, use a native API call.
+After the dispose method call, the HTML element associated with the UI component remains in the DOM. If you need to remove the element as well, use a native API call.
 
     element.remove();
     

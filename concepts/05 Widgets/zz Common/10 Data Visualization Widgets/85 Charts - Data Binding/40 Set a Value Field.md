@@ -1,4 +1,4 @@
-To set the value field name, assign it to the **valueField** option. Similarly to the [argumentField](/concepts/05%20Widgets/zz%20Common/10%20Data%20Visualization%20Widgets/85%20Charts%20-%20Data%20Binding/30%20Set%20an%20Argument%20Field.md '/Documentation/Guide/Widgets/Common/Data_Visualization_Widgets/Charts_-_Data_Binding/Set_an_Argument_Field/') option, **valueField** is set differently depending on the widget in use.
+To set the value field name, assign it to the **valueField** option. Similarly to the [argumentField](/concepts/05%20Widgets/zz%20Common/10%20Data%20Visualization%20Widgets/85%20Charts%20-%20Data%20Binding/30%20Set%20an%20Argument%20Field.md '/Documentation/Guide/Widgets/Common/Data_Visualization_Widgets/Charts_-_Data_Binding/Set_an_Argument_Field/') option, **valueField** is set differently depending on the UI component in use.
 
 * **Chart**		
 If you have only one series in your chart, specify the **valueField** option within the [series](/api-reference/20%20Data%20Visualization%20Widgets/dxChart/1%20Configuration/series '/Documentation/ApiReference/Data_Visualization_Widgets/dxChart/Configuration/series/') object.
@@ -92,7 +92,7 @@ To specify the value field for a series in the **PieChart** widget, set the [val
 		});
 
 * **Sparkline**		
-The [valueField](/api-reference/20%20Data%20Visualization%20Widgets/dxSparkline/1%20Configuration/valueField.md '/Documentation/ApiReference/Data_Visualization_Widgets/dxSparkline/Configuration/#valueField') option for the **Sparkline** widget must be specified in the root configuration object.
+The [valueField](/api-reference/20%20Data%20Visualization%20Widgets/dxSparkline/1%20Configuration/valueField.md '/Documentation/ApiReference/Data_Visualization_Widgets/dxSparkline/Configuration/#valueField') option for the **Sparkline** UI component must be specified in the root configuration object.
 
 		<!--JavaScript-->$("#sparklineContainer").dxSparkline({
 			//...

@@ -12,7 +12,7 @@ A function that is called when the draggable items are reordered.
 Information about the event that caused the function's execution.
 
 ##### field(e.component): {WidgetName}
-The widget that raised the event.
+The UI component that raised the event.
 
 ##### field(e.dropInsideItem): Boolean
 Indicates if the dragged item is dropped inside another item.

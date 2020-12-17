@@ -1,4 +1,4 @@
-The load panel is displayed while the widget loads data. It consists of a loading indicator and text, both placed on a pane.
+The load panel is displayed while the UI component loads data. It consists of a loading indicator and text, both placed on a pane.
 
 ![DevExtreme HTML5/JavaScript DataGrid Widget - Load Panel](/images/DataGrid/visual_elements/load_panel.png)
 

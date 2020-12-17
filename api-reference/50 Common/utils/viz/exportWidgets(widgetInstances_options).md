@@ -17,7 +17,7 @@ An array with the following format:
         [ widgetInstanceP_1, widgetInstanceP_2, ..., widgetInstanceP_R ]
     ]
 
-Each nested array contains widget instances that should be in the same row in the exported document.
+Each nested array contains UI component instances that should be in the same row in the exported document.
 
 ##### param(options): Object
 Export options.
@@ -34,7 +34,7 @@ The file's format. PNG is used if the browser cannot export the file in the spec
 ##### field(options.gridLayout): Boolean
 If **true**, UI components are arranged in columns with equal widths (the width of the widest widget).     
 If **false**, UI components are placed next to each other in rows (default).      
-In any case, each row has the height of the highest widget in it.
+In any case, each row has the height of the highest UI component in it.
 
 ##### field(options.horizontalAlignment): 'center' | 'left' | 'right'
 Horizontally aligns UI components in their columns. Applies only when **gridLayout** is **true**.

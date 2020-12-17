@@ -6,7 +6,7 @@ EventForAction: dxOverlay.shown
 ---
 ---
 ##### shortDescription
-A function that is executed after the widget is displayed.
+A function that is executed after the UI component is displayed.
 
 ##### param(e): Object
 Information about the event.

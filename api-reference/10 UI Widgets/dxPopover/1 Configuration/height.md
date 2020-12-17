@@ -8,7 +8,7 @@ default: 'auto'
 Specifies the UI component's height.
 
 ##### return: Number | String
-The widget height.
+The UI component height.
 
 ---
 #include uiwidgets-ref-height

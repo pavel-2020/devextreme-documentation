@@ -1,4 +1,4 @@
-The **ResponsiveBox** widget allows you to create an application or a website with a layout adapted to different screen sizes.
+The **ResponsiveBox** UI component allows you to create an application or a website with a layout adapted to different screen sizes.
 
 ![DevExtreme HTML5 JavaScript ResponsiveBox](/images/UiWidgets/responsive-box.png)
 
@@ -6,7 +6,7 @@ The **ResponsiveBox** widget allows you to create an application or a website wi
     url: "https://js.devexpress.com/Demos/WidgetsGallery/Demo/ResponsiveBox/Overview/"
 }
 
-The following code creates a simple **ResponsiveBox**. The widget defines an ordinary page layout: a header, a footer, content area, left- and right-side bars. On small and extra small screens, the bars are hidden to give more space to the content. Note that the height of all elements that are ancestors to the **ResponsiveBox** (such as `<body>` and `<html>`) is explicitly set to *"100%"*. This makes the **ResponsiveBox** occupy full screen height.
+The following code creates a simple **ResponsiveBox**. The UI component defines an ordinary page layout: a header, a footer, content area, left- and right-side bars. On small and extra small screens, the bars are hidden to give more space to the content. Note that the height of all elements that are ancestors to the **ResponsiveBox** (such as `<body>` and `<html>`) is explicitly set to *"100%"*. This makes the **ResponsiveBox** occupy full screen height.
 
 ---
 

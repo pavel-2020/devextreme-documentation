@@ -6,7 +6,7 @@ EventForAction: dxResizable.resize
 ---
 ---
 ##### shortDescription
-A function that is executed each time the widget is resized by one pixel.
+A function that is executed each time the UI component is resized by one pixel.
 
 ##### param(e): Object
 Information about the event.

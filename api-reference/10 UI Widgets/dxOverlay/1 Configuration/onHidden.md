@@ -6,7 +6,7 @@ EventForAction: dxOverlay.hidden
 ---
 ---
 ##### shortDescription
-A function that is executed after the widget is hidden.
+A function that is executed after the UI component is hidden.
 
 ##### param(e): Object
 Information about the event.

@@ -1,4 +1,4 @@
-The **TreeView** widget is a tree-like representation of textual data.
+The **TreeView** UI component is a tree-like representation of textual data.
 
 #include common-demobutton with {
     url: "https://js.devexpress.com/Demos/WidgetsGallery/Demo/TreeView/HierarchicalDataStructure/"

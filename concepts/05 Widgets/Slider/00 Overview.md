@@ -1,4 +1,4 @@
-The **Slider** is a widget that allows an end user to set a numeric value on a continuous range of possible values.
+The **Slider** is a UI component that allows an end user to set a numeric value on a continuous range of possible values.
 
 #include common-demobutton with {
     url: "https://js.devexpress.com/Demos/WidgetsGallery/Demo/Slider/Overview/"

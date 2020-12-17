@@ -1,4 +1,4 @@
-In the UI components provided by the DevExtreme Data Visualization library, you can easily customize the automatically generated text for the following widget elements.
+In the UI components provided by the DevExtreme Data Visualization library, you can easily customize the automatically generated text for the following UI component elements.
 
 **Chart** and **PolarChart**
     

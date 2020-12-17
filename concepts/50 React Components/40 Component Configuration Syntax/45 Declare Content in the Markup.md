@@ -32,7 +32,7 @@ These UI components do not support dynamically or conditionally rendered content
     <Drawer ... >
         {
             someCondition && <div> ... </div>
-            // when the condition changes in runtime, the widget may not render content correctly
+            // when the condition changes in runtime, the UI component may not render content correctly
         }
     </Drawer>
 

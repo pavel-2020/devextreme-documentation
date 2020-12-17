@@ -6,7 +6,7 @@ EventForAction: dxTextEditor.focusIn
 ---
 ---
 ##### shortDescription
-A function that is executed when the widget gets focus.
+A function that is executed when the UI component gets focus.
 
 ##### param(e): Object
 Information about the event.

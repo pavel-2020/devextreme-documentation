@@ -1,4 +1,4 @@
-You should synchronize the **DropDownBox** widget with an embedded element. The following instructions show how to do it when the embedded element is another DevExtreme widget, but they are also applicable in other cases.
+You should synchronize the **DropDownBox** UI component with an embedded element. The following instructions show how to do it when the embedded element is another DevExtreme widget, but they are also applicable in other cases.
 
 1. **Specify data sources**    
 The **DropDownBox**'s and embedded UI component's data sources can be the same or different. If they are different, the UI component's key field should be present in the **DropDownBox**'s data source.        

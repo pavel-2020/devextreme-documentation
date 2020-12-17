@@ -1,4 +1,4 @@
-The following code example shows how to declare a widget configuration object using TypeScript.
+The following code example shows how to declare a UI component configuration object using TypeScript.
 
     window.onload = () => {
         var options: DevExpress.viz.charts.dxChartOptions;
@@ -12,7 +12,7 @@ The following code example shows how to declare a widget configuration object us
         };  
     };
 
-Any configuration object should have a specific type. In this example, the `options` object has the `dxChartOptions` type, which configures the **Chart** widget. Type names are formed by concatenating the widget name (in this example, `dxChart`) and `Options`.
+Any configuration object should have a specific type. In this example, the `options` object has the `dxChartOptions` type, which configures the **Chart** widget. Type names are formed by concatenating the UI component name (in this example, `dxChart`) and `Options`.
 
 The part that preceeds the type is its namespace. DevExtreme UI components are declared in the following namespaces.
 
@@ -52,7 +52,7 @@ After you have declared a configuration object, pass it to the [jQuery plugin](/
 		<div dx-chart="chartOptions"></div>
 	</div>
 
-[note]TypeScript is only for _declaring_ a widget configuration. You still need to use jQuery, Knockout or AngularJS to _apply_ this configuration.
+[note]TypeScript is only for _declaring_ a UI component configuration. You still need to use jQuery, Knockout or AngularJS to _apply_ this configuration.
 
 
 #####See Also#####

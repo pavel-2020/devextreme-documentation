@@ -1,4 +1,4 @@
-The **Box** widget allows you to arrange various elements within it. This widget is separate and adaptive and acts as the layout's building block.
+The **Box** UI component allows you to arrange various elements within it. This UI component is separate and adaptive and acts as the layout's building block.
 
 #include common-demobutton with {
     url: "https://js.devexpress.com/Demos/WidgetsGallery/Demo/Box/Overview/"

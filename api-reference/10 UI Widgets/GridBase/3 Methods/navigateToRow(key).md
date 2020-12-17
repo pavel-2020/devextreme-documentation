@@ -11,9 +11,9 @@ The row's key.
 ---
 This method performs the following actions:
 
-1. Switches the widget to the data page that contains the specified row.
+1. Switches the UI component to the data page that contains the specified row.
 1. Expands groups in which the row is nested (if rows are grouped and the groups are collapsed).
-1. Scrolls the widget to display the row (if the row is outside the viewport).
+1. Scrolls the UI component to display the row (if the row is outside the viewport).
 
 The following requirements apply when you use this method: 
 

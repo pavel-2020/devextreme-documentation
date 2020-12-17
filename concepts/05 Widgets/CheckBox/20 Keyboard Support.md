@@ -7,7 +7,7 @@ An end user can use the following keys to interact with the widget.
     </tr>
     <tr>
         <td>Space</td>
-        <td>Changes the widget value.</td>
+        <td>Changes the UI component value.</td>
     </tr>
 </table>
 

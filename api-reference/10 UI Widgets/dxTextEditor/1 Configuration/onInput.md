@@ -6,7 +6,7 @@ EventForAction: dxTextEditor.input
 ---
 ---
 ##### shortDescription
-A function that is executed each time the UI component's input is changed while the widget is focused.
+A function that is executed each time the UI component's input is changed while the UI component is focused.
 
 ##### param(e): Object
 Information about the event.

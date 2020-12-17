@@ -4,7 +4,7 @@ This option accepts one of the following:
 An object that specifies the UI component's position.
 
 - **String**        
-A shortcut listed in the accepted values. Positions the widget relative to the window.
+A shortcut listed in the accepted values. Positions the UI component relative to the window.
 
 - **Function**      
-A function that returns one of the above. Use it to position the widget based on a condition.
+A function that returns one of the above. Use it to position the UI component based on a condition.

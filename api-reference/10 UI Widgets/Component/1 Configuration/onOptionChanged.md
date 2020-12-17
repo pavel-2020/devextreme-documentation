@@ -6,7 +6,7 @@ EventForAction: Component.optionChanged
 ---
 ---
 ##### shortDescription
-A function that is executed after a widget option is changed.
+A function that is executed after a UI component option is changed.
 
 ##### param(e): Object
 Information about the event.

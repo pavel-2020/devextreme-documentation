@@ -1,8 +1,8 @@
-Any DevExtreme widget must be placed in a container. This role is played by a `<div>` HTML element. Add a `<div>` to the `<body>` tag of your page. Make sure that this `<div>` has the `id` attribute specified.
+Any DevExtreme UI component must be placed in a container. This role is played by a `<div>` HTML element. Add a `<div>` to the `<body>` tag of your page. Make sure that this `<div>` has the `id` attribute specified.
 
     <!--HTML--><div id="buttonContainer"></div>
 
-DevExtreme supplies a jQuery plugin for each widget. To create, for example, the [Button](/api-reference/10%20UI%20Widgets/dxButton '/Documentation/ApiReference/UI_Widgets/dxButton/') widget within the `buttonContainer` element, use the `dxButton()` plugin as the following code shows.
+DevExtreme supplies a jQuery plugin for each widget. To create, for example, the [Button](/api-reference/10%20UI%20Widgets/dxButton '/Documentation/ApiReference/UI_Widgets/dxButton/') UI component within the `buttonContainer` element, use the `dxButton()` plugin as the following code shows.
 
     <!--JavaScript-->$(function () {
 		$("#buttonContainer").dxButton();

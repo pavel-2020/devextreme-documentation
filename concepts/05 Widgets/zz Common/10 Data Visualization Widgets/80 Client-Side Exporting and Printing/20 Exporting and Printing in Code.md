@@ -1,4 +1,4 @@
-To export a widget in code, call its [exportTo(fileName, format)](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/3%20Methods/exportTo(fileName_format).md '/Documentation/ApiReference/Data_Visualization_Widgets/dxChart/Methods/#exportTofileName_format') method passing the needed file name and format (*'PNG'*, *'PDF'*, *'JPEG'*, *'SVG'* or *'GIF'*) as the arguments.
+To export a UI component in code, call its [exportTo(fileName, format)](/api-reference/20%20Data%20Visualization%20Widgets/BaseWidget/3%20Methods/exportTo(fileName_format).md '/Documentation/ApiReference/Data_Visualization_Widgets/dxChart/Methods/#exportTofileName_format') method passing the needed file name and format (*'PNG'*, *'PDF'*, *'JPEG'*, *'SVG'* or *'GIF'*) as the arguments.
 
     <!--JavaScript-->widgetInstance.exportTo('Test Chart', 'PDF');
     

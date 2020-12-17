@@ -6,7 +6,7 @@ EventForAction: dxHtmlEditor.focusOut
 ---
 ---
 ##### shortDescription
-A function that is executed when the widget loses focus.
+A function that is executed when the UI component loses focus.
 
 ##### param(e): Object
 Information about the event that caused the function execution.

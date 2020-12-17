@@ -6,7 +6,7 @@ EventForAction: dxScrollable.updated
 ---
 ---
 ##### shortDescription
-A function that is executed each time the widget is updated.
+A function that is executed each time the UI component is updated.
 
 ##### param(e): Object
 Information about the event.

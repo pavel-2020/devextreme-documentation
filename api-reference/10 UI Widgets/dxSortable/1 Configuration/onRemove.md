@@ -12,7 +12,7 @@ A function that is called when a draggable item is removed.
 Information about the event that caused the function's execution.
 
 ##### field(e.component): {WidgetName}
-The widget that raised the event.
+The UI component that raised the event.
 
 ##### field(e.element): dxElement
 #include common-ref-elementparam with { element: "component" }

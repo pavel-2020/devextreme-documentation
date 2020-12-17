@@ -1,4 +1,4 @@
-Commonly, editors nested into an HTML form are supposed to be validated on the client and then submitted to the server. The **Button** widget supports this scenario out of the box. Place the **Button** on the HTML form and set the [useSubmitBehavior](/api-reference/10%20UI%20Widgets/dxButton/1%20Configuration/useSubmitBehavior.md '/Documentation/ApiReference/UI_Widgets/dxButton/Configuration/#useSubmitBehavior') option to **true**.
+Commonly, editors nested into an HTML form are supposed to be validated on the client and then submitted to the server. The **Button** UI component supports this scenario out of the box. Place the **Button** on the HTML form and set the [useSubmitBehavior](/api-reference/10%20UI%20Widgets/dxButton/1%20Configuration/useSubmitBehavior.md '/Documentation/ApiReference/UI_Widgets/dxButton/Configuration/#useSubmitBehavior') option to **true**.
 
 ---
 ##### jQuery

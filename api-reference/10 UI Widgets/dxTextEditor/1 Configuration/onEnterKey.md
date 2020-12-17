@@ -6,7 +6,7 @@ EventForAction: dxTextEditor.enterKey
 ---
 ---
 ##### shortDescription
-A function that is executed when the Enter key has been pressed while the widget is focused.
+A function that is executed when the Enter key has been pressed while the UI component is focused.
 
 ##### param(e): Object
 Information about the event.

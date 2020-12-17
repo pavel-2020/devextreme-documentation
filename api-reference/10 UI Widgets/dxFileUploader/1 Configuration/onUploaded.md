@@ -24,7 +24,7 @@ The UI component's instance.
 The uploaded file.
 
 ##### field(e.message): String
-The message displayed by the widget when uploading is finished.
+The message displayed by the UI component when uploading is finished.
 
 ##### field(e.model): Object
 Model data. Available only if Knockout is used.

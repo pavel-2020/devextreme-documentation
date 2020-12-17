@@ -21,12 +21,12 @@ The UI component's instance.
 #include common-ref-eventparam
 
 ##### field(e.height): Number
-The current widget height.
+The current UI component height.
 
 ##### field(e.model): Object
 Model data. Available only if Knockout is used.
 
 ##### field(e.width): Number
-The current widget width.
+The current UI component width.
 
 ---

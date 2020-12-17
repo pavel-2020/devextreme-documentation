@@ -1,4 +1,4 @@
-The **NavBar** is a widget that navigates the application views. 
+The **NavBar** is a UI component that navigates the application views. 
 
 #include common-demobutton with {
     url: "https://js.devexpress.com/Demos/WidgetsGallery/Demo/Navbar/Overview/"

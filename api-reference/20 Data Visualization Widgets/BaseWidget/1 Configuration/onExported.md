@@ -6,7 +6,7 @@ EventForAction: BaseWidget.exported
 ---
 ---
 ##### shortDescription
-A function that is executed after the widget is exported.
+A function that is executed after the UI component is exported.
 
 ##### param(e): Object
 Information about the event.

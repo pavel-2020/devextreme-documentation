@@ -2,7 +2,7 @@ DevExtreme is supplied with a set of components called "data library" that helps
 
 DataSource is a stateful object that keeps sorting, grouping, filtering, etc., and applies them each time data is loaded. It also provides events intended to handle data and state changes. More information on the DataSource object can be found in the [Reference](/api-reference/30%20Data%20Layer/PivotGridDataSource '/Documentation/ApiReference/Data_Layer/PivotGridDataSource/') section.
 
-[note] The **PivotGrid** widget accepts a special DataSource type called [PivotGridDataSource](/api-reference/30%20Data%20Layer/PivotGridDataSource '/Documentation/ApiReference/Data_Layer/PivotGridDataSource/').
+[note] The **PivotGrid** UI component accepts a special DataSource type called [PivotGridDataSource](/api-reference/30%20Data%20Layer/PivotGridDataSource '/Documentation/ApiReference/Data_Layer/PivotGridDataSource/').
 
 Store is a universal data access interface supporting a number of methods for reading data. You can find the list of these methods in the [What Are Stores](/concepts/70%20Data%20Binding/5%20Data%20Layer/1%20Creating%20DataSource/3%20What%20Are%20Stores.md '/Documentation/Guide/Data_Binding/Data_Layer/#Creating_DataSource/What_Are_Stores') topic. There are five predefined types of Stores used in **PivotGrid**.
 

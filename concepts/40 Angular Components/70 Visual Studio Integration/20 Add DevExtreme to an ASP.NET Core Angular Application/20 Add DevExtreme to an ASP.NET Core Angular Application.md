@@ -1,4 +1,4 @@
-This article describes how to create an ASP.NET Core Angular application and add a DevExtreme widget to it. You need Visual Studio 2017 v15.7 or later and .NET Core 2.1 SDK to do this.
+This article describes how to create an ASP.NET Core Angular application and add a DevExtreme UI component to it. You need Visual Studio 2017 v15.7 or later and .NET Core 2.1 SDK to do this.
 
 [note] Earlier Visual Studio and .NET Core SDK versions are supported by DevExtreme v17.2. You can find instructions in [this article](/Documentation/17_2/Guide/VS_Integration/Add_DevExtreme_to_an_ASP.NET_Core_Angular_Application/).
 
@@ -81,7 +81,7 @@ This article describes how to create an ASP.NET Core Angular application and add
             ] 
         })
 
-1. Open the `ClientApp/src/app/fetch-data/fetch-data.component.html` file and replace the table in it with the following code. This code creates the DevExtreme **DataGrid** widget and binds it to sample data the `FetchDataComponent` provides:
+1. Open the `ClientApp/src/app/fetch-data/fetch-data.component.html` file and replace the table in it with the following code. This code creates the DevExtreme **DataGrid** UI component and binds it to sample data the `FetchDataComponent` provides:
 
         <!-- tab: fetch-data.component.html -->
         <dx-data-grid [dataSource]="forecasts"></dx-data-grid>

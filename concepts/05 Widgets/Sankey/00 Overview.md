@@ -1,4 +1,4 @@
-The **Sankey** is a widget that visualizes the flow magnitude between value sets. The values are connected. A wider connection denotes a higher flow magnitude.
+The **Sankey** is a UI component that visualizes the flow magnitude between value sets. The values are connected. A wider connection denotes a higher flow magnitude.
 
 Start configuring the **Sankey** by binding it to your data source. Refer to the articles in the [Data Binding](/concepts/05%20Widgets/Sankey/03%20Data%20Binding '/Documentation/Guide/Widgets/Sankey/Data_Binding/') section for more information.
 

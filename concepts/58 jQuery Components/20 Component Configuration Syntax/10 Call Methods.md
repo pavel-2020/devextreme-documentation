@@ -1,4 +1,4 @@
-To call a widget method, pass its name to the jQuery plugin.
+To call a UI component method, pass its name to the jQuery plugin.
 
     <!--JavaScript-->
     var allSeries = $("#chartContainer").dxChart("getAllSeries");
@@ -18,4 +18,4 @@ As an alternative, you can [obtain the component instance](/concepts/58%20jQuery
 #####See Also#####
 - **API Reference**.**WidgetName**.**Methods**, for example, **API Reference**.[Chart](/api-reference/20%20Data%20Visualization%20Widgets/dxChart '/Documentation/ApiReference/Data_Visualization_Widgets/dxChart/').[Methods](/api-reference/20%20Data%20Visualization%20Widgets/dxChart/3%20Methods '/Documentation/ApiReference/Data_Visualization_Widgets/dxChart/Methods/')
 
-[tags]basics, jquery, call methods, widget instance, method arguments
+[tags]basics, jquery, call methods, UI component instance, method arguments

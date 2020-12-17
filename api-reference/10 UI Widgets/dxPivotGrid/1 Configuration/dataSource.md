@@ -5,7 +5,7 @@ default: null
 ---
 ---
 ##### shortDescription
-Binds the widget to data.
+Binds the UI component to data.
 
 ---
 If you use DevExtreme ASP.NET MVC Controls, refer to the <a href="https://docs.devexpress.com/AspNetCore/400575/devextreme-based-controls/concepts/bind-controls-to-data" target="_blank">Bind Controls to Data</a> article.
@@ -175,7 +175,7 @@ You can call the [getDataSource()](/api-reference/10%20UI%20Widgets/dxPivotGrid/
 
 Please review the following notes about data binding:
 
-- If the **PivotGrid** widget gets data from a server, enable [remoteOperations](/api-reference/30%20Data%20Layer/PivotGridDataSource/1%20Configuration/remoteOperations.md '/Documentation/ApiReference/Data_Layer/PivotGridDataSource/Configuration/#remoteOperations') to notify the widget that the server performs data processing operations.
+- If the **PivotGrid** UI component gets data from a server, enable [remoteOperations](/api-reference/30%20Data%20Layer/PivotGridDataSource/1%20Configuration/remoteOperations.md '/Documentation/ApiReference/Data_Layer/PivotGridDataSource/Configuration/#remoteOperations') to notify the UI component that the server performs data processing operations.
 
 - Data field names should not contain the following characters: `.`, `,`, `:`, `[`, and `]`.
 

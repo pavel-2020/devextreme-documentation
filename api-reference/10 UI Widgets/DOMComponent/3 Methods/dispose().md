@@ -12,7 +12,7 @@ After calling this method, remove the DOM element associated with the widget:
     $("#my{WidgetName}").dx{WidgetName}("dispose");
     $("#my{WidgetName}").remove();
 
-Use this method only if the widget was created with jQuery or pure JavaScript. In Angular, Vue, and React, use conditional rendering:
+Use this method only if the UI component was created with jQuery or pure JavaScript. In Angular, Vue, and React, use conditional rendering:
 
 ---
 ##### Angular

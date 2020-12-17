@@ -11,7 +11,7 @@ Specifies the base z-index for all overlay UI components.
 The z-index value.
 
 ---
-The z-index of all overlay UI components located on a page is calculated based on the value passed to this method. Since an overlay widget is added, its z-index is increased by one relative to a previously added overlay widget.
+The z-index of all overlay UI components located on a page is calculated based on the value passed to this method. Since an overlay UI component is added, its z-index is increased by one relative to a previously added overlay widget.
 
 The following example demonstrates how to call the method.
 

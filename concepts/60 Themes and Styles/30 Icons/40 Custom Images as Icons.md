@@ -11,7 +11,7 @@ Although Base64 code can be assigned directly to the **icon** option, we recomme
 
 `customicon` here is the icon's name that you should [assign to the UI component's **icon** option](/concepts/60%20Themes%20and%20Styles/30%20Icons/20%20Icons%20in%20Widgets.md '/Documentation/Guide/Themes_and_Styles/Icons/#Icons_in_Widgets').
 
-In addition, you can provide a specific icon variant for different states of a widget element. In the following code, a special icon is provided for selected tabs:
+In addition, you can provide a specific icon variant for different states of a UI component element. In the following code, a special icon is provided for selected tabs:
 
     <!--CSS-->
     .dx-tab-selected .dx-icon-customicon {
@@ -20,4 +20,4 @@ In addition, you can provide a specific icon variant for different states of a w
         background-position: 0px 0px;
     }
 
-Classes like `dx-tab-selected` from the previous example are not documented. <a href="https://www.devexpress.com/Support/Center/Question/Details/K18570/how-to-inspect-css-rules" target="_blank">Inspect CSS rules</a> to find out which classes are added to the widget element you are customizing.
+Classes like `dx-tab-selected` from the previous example are not documented. <a href="https://www.devexpress.com/Support/Center/Question/Details/K18570/how-to-inspect-css-rules" target="_blank">Inspect CSS rules</a> to find out which classes are added to the UI component element you are customizing.
