@@ -1,1 +1,0 @@
-When a user hovers over a button, it can show an informational text box next to the cursor. Specify this text in the [hint](/Documentation/ApiReference/UI_Widgets/dxButton/Configuration/#hint) option:

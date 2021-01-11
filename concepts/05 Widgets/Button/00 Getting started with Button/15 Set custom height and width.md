@@ -1,1 +1,0 @@
-Use the [height](/Documentation/ApiReference/UI_Widgets/dxButton/Configuration/#height) and [width](/Documentation/ApiReference/UI_Widgets/dxButton/Configuration/#width) options:
