@@ -57,7 +57,7 @@
     <tr>
         <td>(k) A text-only page, with equivalent information or functionality, shall be provided to make a web site comply with the provisions of this part, when compliance cannot be accomplished in any other way. The content of the text-only page shall be updated whenever the primary page changes.</td>
         <td>Not Applicable</td>
-        <td>Developers must provide text-only content for pages using DevExtreme widgets.</td>
+        <td>Developers must provide text-only content for pages using DevExtreme UI components.</td>
     </tr>
     <tr>
         <td>(l) When pages utilize scripting languages to display content, or to create interface elements, the information provided by the script shall be identified with functional text that can be read by Assistive Technology.</td>
