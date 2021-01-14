@@ -37,7 +37,7 @@
     <tr>
         <td>(g) Row and column headers shall be identified for data tables.</td>
         <td>Supported with Exceptions</td>
-        <td>DevExtreme widgets, except the PivotGrid, identify row and column headers for data tables.</td>
+        <td>DevExtreme UI components, except the PivotGrid, identify row and column headers for data tables.</td>
     </tr>
     <tr>
         <td>(h) Markup shall be used to associate data cells and header cells for data tables that have two or more logical levels of row or column headers.</td>
