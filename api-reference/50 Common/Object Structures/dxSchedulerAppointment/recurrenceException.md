@@ -7,6 +7,8 @@ type: String
 Specifies the start date and time of one or more appointments to exclude from a series. This property requires that you also set [recurrenceRule](/api-reference/50%20Common/Object%20Structures/dxSchedulerAppointment/recurrenceRule.md '/Documentation/ApiReference/Common/Object_Structures/dxSchedulerAppointment/#recurrenceRule').
 
 ---
+If your existent data source objects use a custom name for recurrence exception field, specify it in the [recurrenceExceptionExpr](/Documentation/ApiReference/UI_Components/dxScheduler/Configuration/#recurrenceExceptionExpr) property.
+
 #include common-demobutton with {
     url: "https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/RecurringAppointments/"
 }
